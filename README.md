@@ -1,11 +1,11 @@
-## Hi, I'm Aliyah Good👋
+# Hello! I'm Aliyah👋
 
-🧑‍💻 Skills & Technologies:
+I'm an aspiring data analyst with a passion for exploring data and deriving useful insights. I’m actively seeking internships or entry-level positions to apply my technical skills in a professional setting. If you're looking for a motivated and skilled individual, feel free to reach out!
+
+## Tech Stack:
 - Programming Languages: Python, JavaScript
 - Data Analysis & Visualization: SQL, Tableau, Pandas, Matplotlib
 - Web Development: Node.js, React, Vue, HTML/CSS
 - Database Management: MySQL, MongoDB
 - IDE: Jupyter Notebook, VS Code, PyCharm
 
-💼 Looking for Opportunities:
-I’m actively seeking internships or entry-level positions in business data or financial analysis to apply my technical skills in a professional setting. If you're looking for a motivated and skilled individual, feel free to reach out!
